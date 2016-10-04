@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
- /*demetrio trabaja
+
 package tresenraya;
 /* cambios 1 DMP
 
@@ -12,6 +12,7 @@ package tresenraya;
 /**
  *
  * @author Alumnos
+ */ felicitaciones print 
  */
 /*
 Cambios 2 DMP
